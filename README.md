@@ -1,4 +1,8 @@
 # Balta CarnaCode 2026 — Design Patterns
+![.NET](https://img.shields.io/badge/.NET-8-purple)
+![C#](https://img.shields.io/badge/C%23-Backend-blue)
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-23-success)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 Repositório central com a organização dos desafios realizados durante o CarnaCode 2026 da Balta.io.
 
