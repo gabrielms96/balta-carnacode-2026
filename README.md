@@ -1,4 +1,4 @@
-# Balta-carnacode-2026 - DESIGN PATTERNS
+# Balta CarnaCode 2026 — Design Patterns
 
 Repositório central com a organização dos desafios realizados durante o CarnaCode 2026 da Balta.io.
 
