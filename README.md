@@ -67,6 +67,9 @@ Durante o evento, os principais pontos reforçados foram:
 Este repositório funciona como um índice.
 Cada desafio está em um repositório próprio (fork do original do evento).
 
+## eBook - Fundamentos dos Design Patterns
+Minha principal fonte de conhecimento durante o desafio foi o eBook gratuito [Fundamentos dos Design Patterns](https://lp.balta.io/ebook-fundamentos-design-patterns)
+
 ## Status
 
 Evento concluído – Fevereiro de 2026
